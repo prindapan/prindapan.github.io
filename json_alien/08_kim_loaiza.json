@@ -1,0 +1,36 @@
+{
+  "Ads": [
+    {
+
+      "select_ads":"ADMOB",
+      "select_backup_ads":"xxx",
+
+      "main_ads_inter":"ca-app-pub-4857886071073941/2106963677",
+      "main_ads_banner":"DefaultBanner",
+
+      "backup_ads_inter":"DefaultInterstitial",
+      "backup_ads_banner":"DefaultBanner",
+
+      "initial_sdk":"INITIALIZE_SDK",
+      "initial_sdk_backup":"INITIALIZE_SDK_BACKUP_ADS",
+
+      "interval":0,
+      "admob_native": "ca-app-pub-4857886071073941/5854636990",
+      "admob_open": "ca-app-pub-4857886071073941/3228473654",
+      "admob_open2": "ca-app-pub-4857886071073941/6122401740",
+      "open_only": "MIX",
+    "lawas": "NO",
+      "fan": "NO",
+
+      "hpk1": "insurance",
+      "hpk2": "aparel",
+      "hpk3": "sport",
+      "hpk4": "car",
+      "hpk5": "vps",
+
+      "main_puzzle": "YES",
+      "status_app": "0879869867896879667567576",
+      "link_redirect": "https://"
+    }
+  ]
+}
